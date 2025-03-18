@@ -1,0 +1,7 @@
+------------------------ 
+CPU Benchmarking details 
+------------------------ 
+Time for kernel execution (seconds): 0.149129
+FPS (total): 6.70559
+GFLOPS (kernel): 0.506255
+------------------------
